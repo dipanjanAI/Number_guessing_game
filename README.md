@@ -12,7 +12,7 @@ This is a beginner Python project where the user guesses a randomly generated nu
 2. Download the file
 3. Run:
 
-python guessing_game.py
+python Guess_number_game.py
 
 ## Future Improvements
 - Add attempt counter
