@@ -6,6 +6,8 @@ This is a beginner Python project where the user guesses a randomly generated nu
 - Random number generation
 - Too high / too low hints
 - Infinite guesses until correct
+- Add attempt counter
+- Add score system
 
 ## How to Run
 1. Install Python
@@ -15,6 +17,4 @@ This is a beginner Python project where the user guesses a randomly generated nu
 python Guess_number_game.py
 
 ## Future Improvements
-- Add attempt counter
 - Add difficulty levels
-- Add score system
