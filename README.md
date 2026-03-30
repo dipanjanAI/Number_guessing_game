@@ -35,7 +35,7 @@ A fun and interactive Python game where you guess a randomly generated number. I
 1. Run the Python script:
 
    ```bash
-   python game.py
+   python Guess_number_game_updated_version.py
    ```
 2. Choose a difficulty level:
 
